@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyBvE0AxmIuEi2EViC6ZHeeDT2m8hSk7CRA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>247231387059</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.csvTest.RunnerTests</string>
+	<key>PROJECT_ID</key>
+	<string>tugasakhir-41d43</string>
+	<key>STORAGE_BUCKET</key>
+	<string>tugasakhir-41d43.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:247231387059:ios:8001985c746b301f5fe7c6</string>
+	<key>DATABASE_URL</key>
+	<string>https://tugasakhir-41d43-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
